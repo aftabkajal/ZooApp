@@ -1,0 +1,4 @@
+F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.ViewModels.dll
+F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.ViewModels.pdb
+F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\obj\Debug\ZooApp.ViewModels.dll
+F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\obj\Debug\ZooApp.ViewModels.pdb

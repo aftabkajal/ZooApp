@@ -1,0 +1,11 @@
+F:\Kajal\Testing\ZooApp\ZooApp.Models\bin\Debug\ZooApp.Models.dll.config
+F:\Kajal\Testing\ZooApp\ZooApp.Models\bin\Debug\ZooApp.Models.dll
+F:\Kajal\Testing\ZooApp\ZooApp.Models\bin\Debug\ZooApp.Models.pdb
+F:\Kajal\Testing\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.dll
+F:\Kajal\Testing\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\Kajal\Testing\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.xml
+F:\Kajal\Testing\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.dll
+F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.pdb
+F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.Initial.resources
+F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.csproj.GenerateResource.Cache
