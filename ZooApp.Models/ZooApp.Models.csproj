@@ -50,9 +50,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
-    <Compile Include="Migrations\201709110511393_Initial.cs" />
-    <Compile Include="Migrations\201709110511393_Initial.Designer.cs">
-      <DependentUpon>201709110511393_Initial.cs</DependentUpon>
+    <Compile Include="AnimalFood.cs" />
+    <Compile Include="Food.cs" />
+    <Compile Include="Migrations\201709121005303_initial.cs" />
+    <Compile Include="Migrations\201709121005303_initial.Designer.cs">
+      <DependentUpon>201709121005303_initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201709131040587_Animal.cs" />
+    <Compile Include="Migrations\201709131040587_Animal.Designer.cs">
+      <DependentUpon>201709131040587_Animal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201709131915347_AddFoodPrice.cs" />
+    <Compile Include="Migrations\201709131915347_AddFoodPrice.Designer.cs">
+      <DependentUpon>201709131915347_AddFoodPrice.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -63,8 +73,14 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201709110511393_Initial.resx">
-      <DependentUpon>201709110511393_Initial.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201709121005303_initial.resx">
+      <DependentUpon>201709121005303_initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201709131040587_Animal.resx">
+      <DependentUpon>201709131040587_Animal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201709131915347_AddFoodPrice.resx">
+      <DependentUpon>201709131915347_AddFoodPrice.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -26,16 +26,8 @@ namespace ZooApp.Models.Migrations
             //      new Person { FullName = "Rowan Miller" }
             //    );
             //
-            //context.Animals.Add(
-            //    new Animal()
-            //    {
-            //        Name = "Cow",
-            //        Food = "Grass",
-            //        Origin = "India",
-            //        Quantity = 5
-            //    }
-            //);
-            //context.SaveChanges();
+
+            
         }
     }
 }

@@ -9,3 +9,17 @@ F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.dll
 F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.pdb
 F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.Initial.resources
 F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.csproj.GenerateResource.Cache
+E:\Project\ZooApp\ZooApp.Models\bin\Debug\ZooApp.Models.dll.config
+E:\Project\ZooApp\ZooApp.Models\bin\Debug\ZooApp.Models.dll
+E:\Project\ZooApp\ZooApp.Models\bin\Debug\ZooApp.Models.pdb
+E:\Project\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.dll
+E:\Project\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.xml
+E:\Project\ZooApp\ZooApp.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.dll
+E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.pdb
+E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.initial.resources
+E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.csproj.GenerateResource.Cache
+E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.Animal.resources
+E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.AddFoodPrice.resources
+E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.csprojResolveAssemblyReference.cache

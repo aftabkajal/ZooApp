@@ -40,3 +40,17 @@ F:\Kajal\Testing\ZooApp\ZooApp.Services\bin\Debug\System.Web.Razor.xml
 F:\Kajal\Testing\ZooApp\ZooApp.Services\bin\Debug\System.Web.WebPages.Razor.xml
 F:\Kajal\Testing\ZooApp\ZooApp.Services\bin\Debug\System.Web.WebPages.xml
 F:\Kajal\Testing\ZooApp\ZooApp.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\ZooApp.Services.dll.config
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\ZooApp.Services.dll
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\ZooApp.Services.pdb
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\ZooApp.Models.dll
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\ZooApp.ViewModels.dll
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\EntityFramework.dll
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\ZooApp.Models.pdb
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\ZooApp.ViewModels.pdb
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\EntityFramework.xml
+E:\Project\ZooApp\ZooApp.Services\obj\Debug\ZooApp.Services.csprojResolveAssemblyReference.cache
+E:\Project\ZooApp\ZooApp.Services\obj\Debug\ZooApp.Services.dll
+E:\Project\ZooApp\ZooApp.Services\obj\Debug\ZooApp.Services.pdb
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\ZooApp\ZooApp.Services\bin\Debug\EntityFramework.SqlServer.xml

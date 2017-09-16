@@ -2,3 +2,12 @@ F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.ViewModels.dll
 F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.ViewModels.pdb
 F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\obj\Debug\ZooApp.ViewModels.dll
 F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\obj\Debug\ZooApp.ViewModels.pdb
+E:\Project\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.ViewModels.dll
+E:\Project\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.ViewModels.pdb
+E:\Project\ZooApp\ZooApp.ViewModels\obj\Debug\ZooApp.ViewModels.dll
+E:\Project\ZooApp\ZooApp.ViewModels\obj\Debug\ZooApp.ViewModels.pdb
+E:\Project\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.Models.dll
+E:\Project\ZooApp\ZooApp.ViewModels\bin\Debug\EntityFramework.dll
+E:\Project\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.Models.pdb
+E:\Project\ZooApp\ZooApp.ViewModels\bin\Debug\EntityFramework.xml
+E:\Project\ZooApp\ZooApp.ViewModels\obj\Debug\ZooApp.ViewModels.csprojResolveAssemblyReference.cache
