@@ -23,3 +23,7 @@ E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.csproj.GenerateResource.
 E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.Animal.resources
 E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.AddFoodPrice.resources
 E:\Project\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.csprojResolveAssemblyReference.cache
+F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.Animal.resources
+F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.AddFoodPrice.resources
+F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.Migrations.AddingUniqueName.resources
+F:\Kajal\Testing\ZooApp\ZooApp.Models\obj\Debug\ZooApp.Models.csprojResolveAssemblyReference.cache

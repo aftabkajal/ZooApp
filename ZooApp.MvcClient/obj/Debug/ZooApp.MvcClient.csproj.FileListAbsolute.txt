@@ -118,3 +118,9 @@ E:\Project\ZooApp\ZooApp.MvcClient\bin\ZooApp.ViewModels.dll
 E:\Project\ZooApp\ZooApp.MvcClient\bin\ZooApp.Models.pdb
 E:\Project\ZooApp\ZooApp.MvcClient\bin\ZooApp.Services.pdb
 E:\Project\ZooApp\ZooApp.MvcClient\bin\ZooApp.ViewModels.pdb
+F:\Kajal\Testing\ZooApp\ZooApp.MvcClient\bin\ZooApp.Models.dll
+F:\Kajal\Testing\ZooApp\ZooApp.MvcClient\bin\ZooApp.Services.dll
+F:\Kajal\Testing\ZooApp\ZooApp.MvcClient\bin\ZooApp.ViewModels.dll
+F:\Kajal\Testing\ZooApp\ZooApp.MvcClient\bin\ZooApp.Models.pdb
+F:\Kajal\Testing\ZooApp\ZooApp.MvcClient\bin\ZooApp.Services.pdb
+F:\Kajal\Testing\ZooApp\ZooApp.MvcClient\bin\ZooApp.ViewModels.pdb

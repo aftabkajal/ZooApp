@@ -39,9 +39,11 @@ namespace ZooApp.MvcClient.Controllers
             try
             {
                 // TODO: Add insert logic here
-              bool saved =  service.Save(food);
-                if (saved) { 
-                return RedirectToAction("Index");
+              
+                if (ModelState.IsValid)
+                {
+                    bool saved = service.Save(food);
+                    return RedirectToAction("Index");
                 }
                 return View(food);
             }

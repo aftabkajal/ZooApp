@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using ZooApp.Models;
@@ -13,32 +14,36 @@ namespace ZooApp.Services
         ZooContext db = new ZooContext();
         public List<ViewFoodTotal> GetViewFoodTotal()
         {
-            var animalFoods = db.AnimalFoods.ToList();
+            IQueryable<IGrouping<int, AnimalFood>> animalFoodsGroups = db.AnimalFoods.GroupBy(x => x.FoodId);
 
-            List<ViewFoodTotal> totals = new List<ViewFoodTotal>();
-            foreach (AnimalFood animalFood in animalFoods)
+            IQueryable<ViewFoodTotal> foodTotals = from foodGroup in animalFoodsGroups
+                let totalQuantity = foodGroup.Sum(x=>x.Animal.Quantity * x.Quantity)
+                let food = foodGroup.FirstOrDefault()
+                select new ViewFoodTotal()
             {
-                ViewFoodTotal foodTotal = new ViewFoodTotal(animalFood);
-                totals.Add(foodTotal);
-            }
+                FoodPrice = food.Food.Price,
+                FoodName = food.Food.Name, 
+                TotalQuantity = totalQuantity,
+                TotalPrice = totalQuantity * food.Food.Price,
+                Id = food.Id,
+                FoodId = food.FoodId
+            };
 
-            var groupBy = totals.GroupBy(x => x.FoodName);
-            List<ViewFoodTotal> results = new List<ViewFoodTotal>();
-            foreach (IGrouping<string, ViewFoodTotal> foodTotals in groupBy)
+            return foodTotals.ToList();
+        }
+
+        public List<ViewFoodAnimalTotal> GetViewFoodTotalsByFood(int foodId)
+        {
+            IQueryable<AnimalFood> animalFoods = db.AnimalFoods.Where(x => x.FoodId == foodId);
+
+            var totals = animalFoods.Select(animalFood => new ViewFoodAnimalTotal()
             {
-                double totalPrice = foodTotals.Sum(x => x.TotalPrice);
-                double quantity = foodTotals.Sum(x => x.TotalQuantity);
-                ViewFoodTotal foodTotal = new ViewFoodTotal()
-                {
-                    FoodName = foodTotals.Key,
-                    FoodPrice = foodTotals.First().FoodPrice,
-                    TotalPrice = totalPrice,
-                    TotalQuantity = quantity
-
-                };
-                results.Add(foodTotal);
-            }
-            return results;
+                Id = animalFood.Id,
+                AnimalName = animalFood.Animal.Name,
+                TotalQuantity = animalFood.Quantity * animalFood.Animal.Quantity,
+                TotalPrice = animalFood.Quantity * animalFood.Animal.Quantity * animalFood.Food.Price,
+        }).ToList();
+            return totals;
         }
     }
 }

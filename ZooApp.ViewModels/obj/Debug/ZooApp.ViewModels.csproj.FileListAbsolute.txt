@@ -11,3 +11,8 @@ E:\Project\ZooApp\ZooApp.ViewModels\bin\Debug\EntityFramework.dll
 E:\Project\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.Models.pdb
 E:\Project\ZooApp\ZooApp.ViewModels\bin\Debug\EntityFramework.xml
 E:\Project\ZooApp\ZooApp.ViewModels\obj\Debug\ZooApp.ViewModels.csprojResolveAssemblyReference.cache
+F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.Models.dll
+F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\bin\Debug\EntityFramework.dll
+F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\bin\Debug\ZooApp.Models.pdb
+F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\bin\Debug\EntityFramework.xml
+F:\Kajal\Testing\ZooApp\ZooApp.ViewModels\obj\Debug\ZooApp.ViewModels.csprojResolveAssemblyReference.cache

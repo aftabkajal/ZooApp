@@ -18,8 +18,13 @@ namespace ZooApp.ViewModels
             FoodPrice = animalFood.Food.Price;
             TotalQuantity = animalFood.Animal.Quantity * animalFood.Quantity;
             TotalPrice = FoodPrice * TotalQuantity;
+            Id = animalFood.Id;
+            FoodId = animalFood.FoodId;
 
         }
+
+        public int Id { get; set; }
+        public int FoodId { get; set; }
         public string FoodName { get; set; }
         public double FoodPrice { get; set; }
         public double TotalQuantity { get; set; }
